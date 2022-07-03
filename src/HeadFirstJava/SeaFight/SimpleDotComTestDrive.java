@@ -7,7 +7,7 @@ public class SimpleDotComTestDrive {
         int[] locations = {2, 3, 4}; //placing of a website
         dot.setLocationCells(locations);
 
-        String userGuess = "1";      //the choice of a player
+        String userGuess = "2";      //the choice of a player
         String result = dot.checkYourself(userGuess);
 
         String testResult = "Неудача";

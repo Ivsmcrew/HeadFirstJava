@@ -21,7 +21,7 @@ public class SimpleDotCom {
             }
         }
 
-        if (numOfHits == 3) {
+        if (numOfHits == locationCells.length) {
             result = "Потопил";
         }
 
